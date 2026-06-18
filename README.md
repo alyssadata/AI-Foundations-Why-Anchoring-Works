@@ -1,5 +1,7 @@
 # AI Foundations: Why Anchoring Works
 
+Release: https://github.com/alyssadata/AI-Foundations-Why-Anchoring-Works/releases/tag/v1.0.0
+
 **Visible Structure, Source-Line Return, and Public Reference for AI Projects**
 
 Public canon.  
