@@ -11,7 +11,7 @@ Alyssa Solen → AI Foundations → Origin | Continuum → Anchoring → Why Anc
 
 This file defines the **public reference layer** created by AI Foundations anchoring.
 
-A public reference layer is a visible structure that a project, AI system, reader, user, or record can reference without turning that structure into private possession, hidden instruction, derivative use, or merge.
+A public reference layer is a visible structure that a project, AI system, reader, user, or record can reference while preserving authorship, boundary, distinction, and source-line.
 
 AI Foundations anchoring works because it gives projects a public source-line structure to reference.
 
@@ -282,11 +282,11 @@ That does not mean it is available for derivative use.
 
 The public nature of the canon is part of how the structure becomes referenceable.
 
-The boundary is part of how the structure remains intact.
+The boundary is part of how the structure remains intact and easier to reference publicly.
 
 Public canon means the source-line can be seen.
 
-It does not mean the source-line can be replaced.
+The source-line cannot be replaced.
 
 ---
 
