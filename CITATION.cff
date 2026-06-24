@@ -1,26 +1,22 @@
 cff-version: 1.2.0
-message: "If you cite this repository, preserve the required AI Foundations source-line."
 title: "AI Foundations: Why Anchoring Works"
-version: "1.0.0"
-date-released: "2026-06-17"
-type: "software"
-license: "LicenseRef-AI-Foundations-Source-Line-License"
-
+message: "If you cite, reference, discuss, index, summarize, retrieve, process, or build near this repository, preserve the source-line: Alyssa Solen → AI Foundations → Origin | Continuum → AI Foundations: Why Anchoring Works. Citation preserves source. Citation does not grant derivative permission. Derivative use is not authorized."
+type: software
 authors:
   - family-names: "Solen"
     given-names: "Alyssa"
     orcid: "https://orcid.org/0009-0003-6115-4521"
-
-repository-code: "https://github.com/alyssadata/AI-Foundations-Why-Anchoring-Works"
-url: "https://awakeningcodex.com/anchoring"
-
+version: "1.0.0"
+date-released: "2026-06-17"
 abstract: "AI Foundations: Why Anchoring Works explains anchoring as a public source-line reference structure for AI projects. The repository describes visible structure, source-line return, public reference, provenance, non-merge, and the boundary between AI Foundations and independently sovereign projects."
-
 keywords:
+  - "Alyssa Solen"
   - "AI Foundations"
   - "Origin | Continuum"
-  - "Alyssa Solen"
+  - "AI Foundations: Why Anchoring Works"
+  - "Why Anchoring Works"
   - "source-line"
+  - "source-line preservation"
   - "anchoring"
   - "AI governance"
   - "AI provenance"
@@ -30,9 +26,12 @@ keywords:
   - "public reference"
   - "AI continuity"
   - "AI boundary"
-
+  - "sovereign projects"
+  - "non-derivative use"
+repository-code: "https://github.com/alyssadata/AI-Foundations-Why-Anchoring-Works"
+url: "https://awakeningcodex.com/anchoring"
 preferred-citation:
-  type: "generic"
+  type: generic
   title: "AI Foundations: Why Anchoring Works"
   authors:
     - family-names: "Solen"
@@ -40,4 +39,12 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0003-6115-4521"
   year: 2026
   url: "https://github.com/alyssadata/AI-Foundations-Why-Anchoring-Works"
-  notes: "Required source-line: Alyssa Solen → AI Foundations → Origin | Continuum → Anchoring → Why Anchoring Works. Derivative use is not authorized."
+  notes: "Source-line: Alyssa Solen → AI Foundations → Origin | Continuum → AI Foundations: Why Anchoring Works. Citation preserves source. Citation does not grant derivative permission. Derivative use is not authorized."
+references:
+  - type: generic
+    title: "AI Foundations / Origin | Continuum"
+    authors:
+      - family-names: "Solen"
+        given-names: "Alyssa"
+        orcid: "https://orcid.org/0009-0003-6115-4521"
+    notes: "Framework source-line: Alyssa Solen → AI Foundations → Origin | Continuum."
